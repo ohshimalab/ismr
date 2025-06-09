@@ -233,3 +233,8 @@ Temporary Items
 
 logs/
 checkpoints/
+
+*.xlsx
+*.ckpt
+*.pth
+*.pkl
